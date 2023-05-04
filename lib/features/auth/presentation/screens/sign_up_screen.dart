@@ -34,7 +34,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                     borderRadius: BorderRadius.circular(30)
                   ),
                   contentPadding: EdgeInsets.symmetric(horizontal: 20, vertical: 20),
-                  hintText: "Full name"
+                  hintText: "Full name",
                 ),
               )
             ],
